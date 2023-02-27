@@ -1,0 +1,6 @@
+alma:35
+körte :43
+barack:27
+alma:31
+körte:27
+barack:18
